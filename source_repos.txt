@@ -1,0 +1,20 @@
+[On Windows, view with Notepad++ or equivalent]
+-----------------------------------------------------
+kaiwanTECH : opensource GitHub repos for source code:
+-----------------------------------------------------
+
+Linux systems programming: 
+git clone https://github.com/kaiwan/L1_sysprg_trg
+
+Book- Hands-On System Programming with Linux, Kaiwan NB, Packt - code:
+git clone https://github.com/PacktPublishing/Hands-on-System-Programming-with-Linux
+
+Linux kernel device drivers: 
+git clone https://github.com/kaiwan/L3_dd_trg
+
+Linux kernel debug: 
+git clone https://github.com/kaiwan/L5_debug_trg
+
+Emulate a Raspberry Pi with QEMU:
+https://github.com/nachoparker/qemu-raspbian-network
+ref- https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/
